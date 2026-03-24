@@ -1,15 +1,59 @@
-# 💫 About Me:
-## 👋 About Me<br>Backend Developer from Uzbekistan 🇺🇿<br><br>- 💻 Working with Java, Python & backend technologies<br>- 🤖 Building Telegram bots and automation tools<br>- 🎨 Exploring frontend development<br>- ⚡ Interested in APIs and system design<br>- 🚀 Always learning and building new projects
+<!-- 🔥 HEADER -->
+<h1 align="center">Hi 👋, I'm Sulaymon</h1>
+<h3 align="center">Backend Developer from Uzbekistan 🇺🇿</h3>
 
+<!-- 🔥 TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Backend+Developer;Java+%7C+Python;Telegram+Bot+Developer;API+%26+System+Design+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itz_sulaymon_) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Sulaymon-Bakirboyev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fc.bakirboyev@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sulaymonbekaura&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sulaymonbekaura&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymonbekaura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧠 About Me
+- 💻 Strong in **Java** and **Python**
+- 🤖 Building **Telegram bots** & automation tools
+- 🌐 Familiar with **Frontend (HTML, CSS, JavaScript)**
+- ⚡ Focused on **APIs & System Design**
+- 🚀 Passionate about building scalable applications
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://instagram.com/_itz_sulaymon_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:fc.bakirboyev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://quora.com/profile/Sulaymon-Bakirboyev"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,postgres,docker,git,github,postman" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulaymonbekaura&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sulaymonbekaura&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaymonbekaura&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sulaymonbekaura/sulaymonbekaura/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔥 Quote
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
