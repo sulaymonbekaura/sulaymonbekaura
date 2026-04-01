@@ -1,6 +1,6 @@
 <!-- 🔥 HEADER -->
 <h1 align="center">Hi 👋, I'm Sulaymon</h1>
-<h3 align="center">Backend Developer from Uzbekistan 🇺🇿</h3>
+<h3 align="center">🚀 Backend Developer from Uzbekistan 🇺🇿</h3>
 
 <!-- 🔥 TYPING EFFECT -->
 <p align="center">
@@ -12,14 +12,15 @@
 ## 🧠 About Me
 - 💻 Strong in **Java** and **Python**
 - 🤖 Building **Telegram bots** & automation tools
-- 🌐 Familiar with **Frontend (HTML, CSS, JavaScript)**
 - ⚡ Focused on **APIs & System Design**
-- 🚀 Passionate about building scalable applications
+- 🌐 Familiar with **Frontend (HTML, CSS, JavaScript)**
+- 🚀 Passionate about building **scalable systems**
+- 💡 Turning ideas into real-world backend solutions
 
 ---
 
 ## 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/_itz_sulaymon_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:fc.bakirboyev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://quora.com/profile/Sulaymon-Bakirboyev"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white"/></a>
@@ -46,14 +47,7 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sulaymonbekaura/sulaymonbekaura/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🔥 Quote
 <p align="center">
-  <i>"Code. Learn. Build. Repeat."</i>
+  <i>"Build systems that scale. Learn without limits."</i>
 </p>
